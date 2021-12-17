@@ -7,10 +7,10 @@ import (
 	"reflect"
 	"strings"
 
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/logger"
-	"gorm.io/gorm/schema"
-	"gorm.io/gorm/utils"
+	"gorm.io/gorm/v2/clause"
+	"gorm.io/gorm/v2/logger"
+	"gorm.io/gorm/v2/schema"
+	"gorm.io/gorm/v2/utils"
 )
 
 // Create insert the value into database

@@ -1,4 +1,4 @@
-module gorm.io/gorm
+module gorm.io/gorm/v2
 
 go 1.14
 

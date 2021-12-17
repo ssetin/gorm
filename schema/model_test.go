@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"time"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/utils/tests"
+	"gorm.io/gorm/v2"
+	"gorm.io/gorm/v2/utils/tests"
 )
 
 type User struct {

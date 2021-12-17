@@ -5,7 +5,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/lib/pq"
-	"gorm.io/gorm"
+	"gorm.io/gorm/v2"
 )
 
 func TestPostgres(t *testing.T) {

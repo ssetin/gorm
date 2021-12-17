@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gorm.io/gorm/clause"
+	"gorm.io/gorm/v2/clause"
 )
 
 func TestOrderBy(t *testing.T) {

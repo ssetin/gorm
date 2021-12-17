@@ -3,7 +3,7 @@ package tests_test
 import (
 	"testing"
 
-	"gorm.io/gorm"
+	"gorm.io/gorm/v2"
 )
 
 func TestDefaultValue(t *testing.T) {

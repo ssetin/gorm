@@ -1,7 +1,7 @@
 package callbacks
 
 import (
-	"gorm.io/gorm"
+	"gorm.io/gorm/v2"
 )
 
 var (

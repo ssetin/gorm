@@ -3,8 +3,8 @@ package tests_test
 import (
 	"testing"
 
-	"gorm.io/gorm"
-	. "gorm.io/gorm/utils/tests"
+	"gorm.io/gorm/v2"
+	. "gorm.io/gorm/v2/utils/tests"
 )
 
 func AssertAssociationCount(t *testing.T, data interface{}, name string, result int64, reason string) {

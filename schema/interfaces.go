@@ -1,7 +1,7 @@
 package schema
 
 import (
-	"gorm.io/gorm/clause"
+	"gorm.io/gorm/v2/clause"
 )
 
 type GormDataTypeInterface interface {
